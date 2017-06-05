@@ -1,0 +1,45 @@
+span{
+  float:left;
+}
+
+h1{
+  
+  font-family:'Bonbon';
+}
+#author{
+  font-size:30px;
+   font-family:'Caveat';
+}
+#quote{
+  font-size:30px;
+  font-weight:bold;
+  font-family:'Caveat';
+}
+.well1{
+  border-radius:25px;
+}
+#quote{
+  border-radius:25px;
+  
+}
+
+#h{
+  
+height:800px; 
+  background:Cyan;
+}.machine-wrap {
+  margin-top: 60px;
+  
+}
+
+.well-wrap {
+  padding: 50px;
+}
+
+
+div#demon{
+  position:relative;
+  top:150px;
+  width:80%;
+  margin :0px auto;
+}
